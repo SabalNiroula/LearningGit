@@ -8,6 +8,7 @@ public static void main(String [] args ){
 		for(int i =0;i<1;i++){
 		
 			System.out.println("fuck you bitch");	
+			System.out.println("changes have been make man");
 		}
 		
 	}
